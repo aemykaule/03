@@ -1,0 +1,88 @@
+.container{
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+    background-color: white;
+    justify-content: center;
+    align-items: center;
+}
+.caixa01{
+    display: flex;
+    width: 200px;
+    height: 200px;
+    background-color: brown;
+    margin: 10px;
+}
+.caixa02{
+    display: flex;
+    width: 200px;
+    height: 200px;
+    background-color: brown;
+    margin: 10px;
+    align-items: center;
+}
+.caixa03{
+    display: flex;
+    width: 200px;
+    height: 200px;
+    background-color: brown;
+    margin: 10px;
+    align-items: end;
+}
+.caixa04{
+    display: flex;
+    width: 200px;
+    height: 200px;
+    background-color: brown;
+    margin: 10px;
+    justify-content: center;
+}
+.caixa05{
+    display: flex;
+    width: 200px;
+    height: 200px;
+    background-color: brown;
+    margin: 10px;
+    justify-content: center;
+    align-items: center;
+}
+.caixa06{
+    display: flex;
+    width: 200px;
+    height: 200px;
+    background-color: brown;
+    margin: 10px;
+    align-items: end;
+    justify-content: center;
+}
+.caixa07{
+    display: flex;
+    width: 200px;
+    height: 200px;
+    background-color: brown;
+    margin: 10px;
+    justify-content: end;
+}
+.caixa08{
+    display: flex;
+    width: 200px;
+    height: 200px;
+    background-color: brown;
+    margin: 10px;
+    justify-content: end;
+    align-items: center;
+}
+.caixa09{
+    display: flex;
+    width: 200px;
+    height: 200px;
+    background-color: brown;
+    margin: 10px;
+    align-items: end;
+    justify-content: end;
+}
+.caixa{
+    width: 80px;
+    height: 80px;
+    background-color: #2e2e2e;
+}
